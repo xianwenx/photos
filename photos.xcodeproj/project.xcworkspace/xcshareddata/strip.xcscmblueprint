@@ -1,0 +1,29 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "00A145006B8A98C20E6ED205A52E05057904D462" : 0,
+    "55011AEBD444630C0E9DF47BD2E18FDBBDCC285D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "200CA293-E195-4488-B31F-748C452EAD5A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "00A145006B8A98C20E6ED205A52E05057904D462" : "strip\/encrypted-core-data\/",
+    "55011AEBD444630C0E9DF47BD2E18FDBBDCC285D" : "strip\/encrypted-core-data\/vendor\/sqlcipher\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "strip",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "strip.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/project-imas\/encrypted-core-data.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "00A145006B8A98C20E6ED205A52E05057904D462"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/sqlcipher\/sqlcipher.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "55011AEBD444630C0E9DF47BD2E18FDBBDCC285D"
+    }
+  ]
+}
